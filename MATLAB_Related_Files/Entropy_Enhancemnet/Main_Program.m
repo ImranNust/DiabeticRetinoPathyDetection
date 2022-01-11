@@ -5,8 +5,8 @@ clear; close all; clc
 %% For Normal Images
 % Reading Images for Normal Category and saving all of them in a single
 % folder after resizing.
-dir_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2\train\normal';
-dir_save_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2_Enhanced\train\normal';
+dir_path = 'C:\DR_datasets\New_MESSIDOR2\train\normal';
+dir_save_path = 'C:\DR_datasets\New_MESSIDOR2_Enhanced\train\normal';
 % 
 % Reading all the images from the directory
 img_names = dir([dir_path, '/*.png']);
@@ -26,8 +26,8 @@ end
 
 clear;
 %% For Mild
-dir_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2\train\mild';
-dir_save_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2_Enhanced\train\mild';
+dir_path = 'C:\DR_datasets\New_MESSIDOR2\train\mild';
+dir_save_path = 'C:\DR_datasets\New_MESSIDOR2_Enhanced\train\mild';
 % Reading all the images from the directory
 img_names = dir([dir_path, '/*.png']);
 disp(['There are ', num2str(length(img_names)),' Mild Images'])
@@ -47,8 +47,8 @@ end
 
 clear;
 %% For Moderate
-dir_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2\train\moderate';
-dir_save_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2_Enhanced\train\moderate';
+dir_path = 'C:\DR_datasets\New_MESSIDOR2\train\moderate';
+dir_save_path = 'C:\DR_datasets\New_MESSIDOR2_Enhanced\train\moderate';
 % Reading all the images from the directory
 img_names = dir([dir_path, '/*.png']);
 disp(['There are ', num2str(length(img_names)),' Moderate Images'])
@@ -66,8 +66,8 @@ end
 
 clear;
 % For PDR
-dir_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2\train\pdr';
-dir_save_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2_Enhanced\train\pdr';
+dir_path = 'C:\DR_datasets\New_MESSIDOR2\train\pdr';
+dir_save_path = 'C:\DR_datasets\New_MESSIDOR2_Enhanced\train\pdr';
 % Reading all the images from the directory
 img_names = dir([dir_path, '/*.png']);
 disp(['There are ', num2str(length(img_names)),' PDR Images'])
@@ -86,8 +86,8 @@ end
 
 clear;
 %% For Severe
-dir_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2\train\severe';
-dir_save_path = 'C:\Users\Babar Ali\Desktop\DR_datasets\New_MESSIDOR2_Enhanced\train\severe';
+dir_path = 'C:\DR_datasets\New_MESSIDOR2\train\severe';
+dir_save_path = 'C:\DR_datasets\New_MESSIDOR2_Enhanced\train\severe';
 % Reading all the images from the directory
 img_names = dir([dir_path, '/*.png']);
 disp(['There are ', num2str(length(img_names)),' Severe Images'])
