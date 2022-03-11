@@ -9,3 +9,11 @@ This repository contains the code and details of our project for diabetic retino
 </p>
 
 2. The pre-processing steps must be divided into thress steps: i) removing all the [unnecessary information](https://github.com/ImranNust/DiabeticRetinoPathyDetection/tree/main/MATLAB_Related_Files/UnnecessayDetailRemoval), ii) apply [entropy enhancement](https://github.com/ImranNust/DiabeticRetinoPathyDetection/tree/main/MATLAB_Related_Files/Entropy_Enhancemnet) technique to increase the imperceptibility of images, and finally iii) [splitting the data](https://github.com/ImranNust/DiabeticRetinoPathyDetection/tree/main/MATLAB_Related_Files/Test_Val_Train_Split) set into train, test, and validation sets.
+
+3. When your data is ready, just use the proposed hybrid neural network model, by running the [Main_Program_For_Training_and_Testing.ipynb](https://github.com/ImranNust/DiabeticRetinoPathyDetection/blob/main/Main_Program_For_Training_and_Testing.ipynb). Pleaes save the [utilites folder](https://github.com/ImranNust/DiabeticRetinoPathyDetection/tree/main/utilities) in the directory where your data and main file is stored. 
+
+
+<p align="center">
+  <img src="https://github.com/ImranNust/DiabeticRetinoPathyDetection/blob/main/model_synopsis.png" />
+</p>
+
