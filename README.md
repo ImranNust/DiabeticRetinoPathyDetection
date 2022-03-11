@@ -6,3 +6,4 @@ This repository contains the code and details of our project for diabetic retino
 <p align="center">
   <img src="https://github.com/ImranNust/DiabeticRetinoPathyDetection/blob/main/MATLAB_Related_Files/origina_highlighted.png" />
 </p>
+2. The pre-processing steps must be divided into thress steps: i) removing all the [unnecessary information](https://github.com/ImranNust/DiabeticRetinoPathyDetection/tree/main/MATLAB_Related_Files/UnnecessayDetailRemoval), ii) apply [entropy enhancement](https://github.com/ImranNust/DiabeticRetinoPathyDetection/tree/main/MATLAB_Related_Files/Entropy_Enhancemnet) technique to increase the imperceptibility of images, and finally iii) [splitting the data](https://github.com/ImranNust/DiabeticRetinoPathyDetection/tree/main/MATLAB_Related_Files/Test_Val_Train_Split) set into train, test, and validation, iii). apply
