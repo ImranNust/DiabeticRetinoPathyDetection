@@ -17,3 +17,8 @@ This repository contains the code and details of our project for diabetic retino
   <img src="https://github.com/ImranNust/DiabeticRetinoPathyDetection/blob/main/model_synopsis.png" />
 </p>
 
+4. If your training goes well -- the details of our training parameters and other settings is discussed in the article -- you will get results something like the ones shown below.
+
+<p align="center">
+  <img src="https://github.com/ImranNust/DiabeticRetinoPathyDetection/blob/main/results.png" />
+</p>
