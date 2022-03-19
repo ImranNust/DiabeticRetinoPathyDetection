@@ -18,7 +18,7 @@ This repository contains the code and details of our research article  **_"A Uni
 
 <hr/>
 
-3. When your data is ready, just use the proposed hybrid neural network model, by running the [Main_Program.ipynb](https://github.com/ImranNust/DiabeticRetinoPathyDetection/blob/main/Main_Program_For_Training_and_Testing.ipynb) program. Pleaes save the [utilites folder](https://github.com/ImranNust/DiabeticRetinoPathyDetection/tree/main/utilities) in the directory where your data and main file is stored. 
+2. When your data is ready, just use the proposed hybrid neural network model, by running the [Main_Program.ipynb](https://github.com/ImranNust/DiabeticRetinoPathyDetection/blob/main/Main_Program_For_Training_and_Testing.ipynb) program. Pleaes save the [utilites folder](https://github.com/ImranNust/DiabeticRetinoPathyDetection/tree/main/utilities) in the directory where your data and main file is stored. 
 
 
 <p align="center">
@@ -27,7 +27,7 @@ This repository contains the code and details of our research article  **_"A Uni
 
 <hr/>
 
-4. If your training goes well - the details of our training parameters and other settings is discussed in the article - you will get results like the ones shown below. **Please note that the following results are for the [APTOS dataset](https://www.kaggle.com/c/aptos2019-blindness-detection)**. In addition to that, we also used [MESSIDOR-2](https://www.adcis.net/en/third-party/messidor2/) and [UWF](https://www.nature.com/articles/s41598-021-81539-3) datasets in our paper. 
+3. If your training goes well - the details of our training parameters and other settings is discussed in the article - you will get results like the ones shown below. **Please note that the following results are for the [APTOS dataset](https://www.kaggle.com/c/aptos2019-blindness-detection)**. In addition to that, we also used [MESSIDOR-2](https://www.adcis.net/en/third-party/messidor2/) and [UWF](https://www.nature.com/articles/s41598-021-81539-3) datasets in our paper. 
 
 <p align="center">
   <img src="https://github.com/ImranNust/DiabeticRetinoPathyDetection/blob/main/results.png" />
