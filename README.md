@@ -2,7 +2,7 @@
     A Unified Technique for Entropy Enhancement Based Diabetic Retinopathy Detection Using Hybrid Neural Network
 </h1>
 
-This repository contains the code and details of our research article  **_"A Unified Technique for Entropy Enhancement Based Diabetic Retinopathy Detection Using Hybrid Neural Network,"_** accepted for publication in the **_[Computers in Biology and Medicine Journal](https://www.journals.elsevier.com/computers-in-biology-and-medicine)_**.
+This repository contains the code and details of our research article  **_"[A Unified Technique for Entropy Enhancement Based Diabetic Retinopathy Detection Using Hybrid Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165),"_** accepted for publication in the **_[Computers in Biology and Medicine Journal](https://www.journals.elsevier.com/computers-in-biology-and-medicine)_**.
 
 <hr/>
 
