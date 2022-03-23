@@ -35,7 +35,7 @@ This repository contains the code and details of our research **_"[A Unified Tec
 
 <hr/>
 
-If you find our paper or code useful, please cite our work as as follows:
+If you find our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165) or [code](https://github.com/ImranNust/DiabeticRetinoPathyDetection) useful, please cite our work as as follows:
 
 **Fatima, M. Imran, A. Ullah, M. Arif, R. Noor, "A unified technique for entropy enhancement based diabetic retinopathy detection using hybrid neural network," _Computers in Biology and Medicine_, 2022, pp. 105424, https://doi.org/10.1016/j.compbiomed.2022.105424.**
 
