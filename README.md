@@ -2,7 +2,7 @@
     A Unified Technique for Entropy Enhancement Based Diabetic Retinopathy Detection Using Hybrid Neural Network
 </h1>
 
-This repository contains the code and details of our research **_"[A Unified Technique for Entropy Enhancement Based Diabetic Retinopathy Detection Using Hybrid Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165),"_** accepted for publication in the **_[Computers in Biology and Medicine Journal](https://www.journals.elsevier.com/computers-in-biology-and-medicine)_**.
+This repository contains the code and details of our [research article](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165) **_"[A Unified Technique for Entropy Enhancement Based Diabetic Retinopathy Detection Using Hybrid Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165),"_** accepted for publication in the **_[Computers in Biology and Medicine Journal](https://www.journals.elsevier.com/computers-in-biology-and-medicine)_**.
 
 <hr/>
 
@@ -27,7 +27,7 @@ This repository contains the code and details of our research **_"[A Unified Tec
 
 <hr/>
 
-3. If your training goes well - the details of our training parameters and other settings is discussed in the article - you will get results like the ones shown below. **Please note that the following results are for the [APTOS dataset](https://www.kaggle.com/c/aptos2019-blindness-detection)**. In addition to that, we also used [MESSIDOR-2](https://www.adcis.net/en/third-party/messidor2/) and [UWF](https://www.nature.com/articles/s41598-021-81539-3) datasets in our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165). 
+3. If your training goes well - the details of our training parameters and other settings are discussed in the [research article]((https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165)) - you will get results like the ones shown below. **Please note that the following results are for the [APTOS dataset](https://www.kaggle.com/c/aptos2019-blindness-detection)**. In addition to that, we also used [MESSIDOR-2](https://www.adcis.net/en/third-party/messidor2/) and [UWF](https://www.nature.com/articles/s41598-021-81539-3) datasets in our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165). 
 
 <p align="center">
   <img src="https://github.com/ImranNust/DiabeticRetinoPathyDetection/blob/main/results.png" />
