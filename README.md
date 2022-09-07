@@ -2,7 +2,7 @@
     A Unified Technique for Entropy Enhancement Based Diabetic Retinopathy Detection Using Hybrid Neural Network
 </h1>
 
-This repository contains the code and details of our research article **_"[A Unified Technique for Entropy Enhancement Based Diabetic Retinopathy Detection Using Hybrid Neural Network](https://authors.elsevier.com/a/1ep0-2OYd01Br),"_** accepted for publication in the **_[Computers in Biology and Medicine Journal](https://www.journals.elsevier.com/computers-in-biology-and-medicine)_**.
+This repository contains the code and details of our research article **_"[A Unified Technique for Entropy Enhancement Based Diabetic Retinopathy Detection Using Hybrid Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165?via%3Dihub),"_** accepted for publication in the **_[Computers in Biology and Medicine Journal](https://www.journals.elsevier.com/computers-in-biology-and-medicine)_**.
 
 <hr/>
 
@@ -37,6 +37,6 @@ This repository contains the code and details of our research article **_"[A Uni
 
 If you find our [paper](https://authors.elsevier.com/a/1ep0-2OYd01Br) or [code](https://github.com/ImranNust/DiabeticRetinoPathyDetection) useful, please cite our work as as follows:
 
-**Fatima, [M. Imran](https://github.com/ImranNust), A. Ullah, M. Arif, R. Noor, "[A unified technique for entropy enhancement based diabetic retinopathy detection using hybrid neural network](https://authors.elsevier.com/a/1ep0-2OYd01Br)," _Computers in Biology and Medicine_, vol. 145, June 22, 2022, pp. 105424, ISSN 0010-4825. Doi: https://doi.org/10.1016/j.compbiomed.2022.105424.**
+**Fatima, [M. Imran](https://github.com/ImranNust), A. Ullah, M. Arif, R. Noor, "[A unified technique for entropy enhancement based diabetic retinopathy detection using hybrid neural network](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002165?via%3Dihub)," _Computers in Biology and Medicine_, vol. 145, June 22, 2022, pp. 105424, ISSN 0010-4825. Doi: https://doi.org/10.1016/j.compbiomed.2022.105424.**
 
 <hr/>
